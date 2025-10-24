@@ -1,0 +1,9 @@
+# PRAKTIKUM PEMOGRAMAN MOBILE
+EKA BINTANG WICAKSONO<br>
+H1D023054<br>
+SHIFT KRS B<br>
+SHIFT BARU A<br>
+<br>
+# DEMO APLIKASI
+https://github.com/user-attachments/assets/4f47b879-629a-4973-8407-c7cf09cdf6f8
+
