@@ -10,7 +10,7 @@ SHIFT BARU A<br>
 https://github.com/user-attachments/assets/483a814e-495e-4057-bb1a-7d3e68a3abb6
 
 
-<br>
+
 # PENJELASAN ALUR DATA
 Saat aplikasi dibuka, page HeadCoach dan TeamSquad akan memanggil API melalui ApiConfig.kt dan ApiService.kt. Pada ApiConfig.kt terdapat Retrofit dan interceptor yang akan menambahkan token APi yang sudah di inputkan ke Header untuk setiap request.
 
