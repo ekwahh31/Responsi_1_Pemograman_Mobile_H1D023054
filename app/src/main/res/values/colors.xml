@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF000000</color>
+    <color name="colorSecondary">#FFFFFF</color>
+    <color name="colorTertiary">#FF0000</color>
+    <color name="positionGoalkeeper">#FFC107</color>
+    <color name="positionDefender">#2196F3</color>
+    <color name="positionMidfielder">#4CAF50</color>
+    <color name="positionForward">#F44336</color>
+    <color name="positionDefault">#9E9E9E</color>
+</resources>
